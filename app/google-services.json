@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854438979646",
+    "firebase_url": "https://globalstarts-812d4.firebaseio.com",
+    "project_id": "globalstarts-812d4",
+    "storage_bucket": "globalstarts-812d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854438979646:android:f0da1d2beadf0316",
+        "android_client_info": {
+          "package_name": "ds.gcme.com.globalstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854438979646-glsdasop6riehuru27rqtdf14pjegmkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t8cqpJR2VREfFbSSZ9EciKXCrg1bm2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854438979646-glsdasop6riehuru27rqtdf14pjegmkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

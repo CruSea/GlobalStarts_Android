@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_0e668c2108eb6a9fc770d50fd51dab8f4eb981df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_8a12dca503014e89aa00a44753821748a23180f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_cc9be6a572e34b801755ec76b330d23cec1c2ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_815865f82ad51590de2baac0d06ef46830f7a8f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_bda4c15a993d2487d92de4a8936b8e56e7b571ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_069564106571952a8c22be5c14c75f09d11ee310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_3cbbc091de4a67501df03a61c8669f1cac9b8513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_5e91fd13599f6250b2ebf769979f987d564926d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_fc7b19126e5f4e3a0424d0d2d3e220afdee81899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_d4d800a93c723f4bb29774661ffb10f3089d9ca6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_63c622cae057321979d5708c72825aa9360f3e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.github.airk000/trigger/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76895f2a615bef2015e1b57a71efdd62b518da59">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.airk000-trigger-1.0.0_135d6e40050086030703afaac51876acc8d3e1e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5388eb7c5730682ef8ed608f4e7ccda49da274ba">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07bf0d98d5c0732ba14563aa70db8f62096acbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e8e0b3b4359641781938c6dad294317071320e6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_9d99ac3d6a9586bb02799fdad0f7ff3a4e6cc681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_62d91532b916083a6bf42db8cac15dad4d37be71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_6692001edf2ae4c3813b109f30ed19945b978fc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d287d78a546ef3d88d5cae4aef4c055e632297ef">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09f7c64b5d3a530a9288b09db3f3258f90292c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_ed1e779567aa0ec048aecedb341a24d2b08aaccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_faac35da8e3b2c388df1cd6c178e47f52a0153b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_fa5fa7b3821cce5fe25c023d38639819be615ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_e7640f1950348f792753daca92295f758d3c6f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_6a65b7fc0f5db4cc258e0152966ef5c344768db2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/Library/Android/sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_1fdfecef18b131c8457369293d455c2325c7fa91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.github.bluejamesbond/textjustify-android/2.1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a298f4b67b4898200c47cfd4f5bf2f221c657766">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.bluejamesbond-textjustify-android-2.1.6_cd1a0cb316cf9612afb718312a6b7bcadc94c31a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_5fa02380cc9d47d8d1e4a452653ea397ad3c12bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_1598c7bc418a43d59bccb76b43c3e3e769fb5dd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_286de267b1d2b4098260a237603fcfdaa92ae5b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.github.goka.blurredgridmenu/blurredgridmenu/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e59c91d161833c09fd1752fd8ba1162afdf7cc5">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.goka.blurredgridmenu-blurredgridmenu-1.0.2_91b9bb0f0ebe5f4dda3e4b0b90f5ad3e7c32a28d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_0301c0c28ea0766aacc791ac5719614d083d7596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d51e28877dd595f0328d621ce5d850131647d5ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_8ea608571ca950f12d4f549cc3b76727c64111ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a95fd025efad7b05be3d29737bec37652e0fdb9e">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wdullaer-materialdatetimepicker-2.3.0_b72b3504620ce6aa9ded5b47a7d14dd9e0ccd9aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.soundcloud.android-android-crop-1.0.1_13686cb3f701b4a72574a652809e03885d55f4f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bengeos/GlobalStarts/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bengeos/GlobalStarts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_e69d7b4cae7710b39ef29660ccac378ad01c5e16/classes.dex" />
+    </item>
+
+</items>
